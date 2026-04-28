@@ -9,9 +9,12 @@ Everyone's machine is different. Different OS versions, Node versions, Python ve
 
 ## Before You Start
 
-You need two things:
+You need three things:
 
-**1. A container runtime**
+**1. Create a new Branch**
+Base your branch from "main" and rename it to "riipen/{your name}".
+
+**2. A container runtime**
 
 Install one depending on your OS:
 
@@ -20,7 +23,7 @@ Install one depending on your OS:
 | [OrbStack](https://orbstack.dev) | macOS (recommended) |
 | [Docker Desktop](https://www.docker.com/products/docker-desktop) | macOS or Windows |
 
-**2. The Dev Containers extension for VS Code**
+**3. The Dev Containers extension for VS Code**
 
 Install it here: [ms-vscode-remote.remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
