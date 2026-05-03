@@ -7,6 +7,9 @@ Feel free to send in your questions on our WhatsApp group. This README will expl
 Everyone's machine is different. Different OS versions, Node versions, Python versions -- and that means code that works on one machine breaks on another. Dev Containers solve this by packaging the entire development environment into a container. When you open this repo, you're running the exact same environment as everyone else on the team. No setup friction, no "works on my machine.". This also allows us (founders) to test your code without hassle.
 
 
+<img width="968" height="402" alt="image" src="https://github.com/user-attachments/assets/8ea4cb18-20a7-4053-b118-ad4de593b5b7" />
+
+
 ## Before You Start
 
 You need three things:
