@@ -1,6 +1,6 @@
 {
   "name": "IDRAK Dev",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
   "forwardPorts": [8000, 3000],
   "postCreateCommand": "echo 'Ready! Run your FastAPI backend on :8000 and Vue/Next.js frontend on :3000'",
   "customizations": {
