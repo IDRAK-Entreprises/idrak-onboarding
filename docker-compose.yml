@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:16
+    container_name: idrak_onboarding_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: idrak_onboarding
+    ports:
+      - "5432:5432"
+    volumes:
+      - idrak_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  idrak_postgres_data:
